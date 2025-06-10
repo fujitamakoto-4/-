@@ -4,7 +4,8 @@
 ## はじめに
 本リポジトリの内容は以下のウェブサイトでもご覧いただけます：
 
-- [ふじたまこと：政策リポジトリ](https://manifest.takahiroanno.com/)
+- [ふじたまこと：政策リポジトリ]()
+- [ふじたまこと：公式HP](https://fujitamakoto.com/)
 - [GitHubマニュアル](/docs/Manual.md)
 
 ## 目次
