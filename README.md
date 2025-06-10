@@ -43,7 +43,7 @@
 がん政策に対して、具体的に変更提案します。
 
 - 変更提案はこちら
-    - [変更提案]([https://github.com/](https://github.com/fujitamakoto-4/-/pulls)
+    - [変更提案](https://github.com/fujitamakoto-4/-/pulls)
 - 変更提案の仕方は[こちら](/docs/manual_pull_request.md)
 
 ### 変更提案の反映について
