@@ -34,7 +34,7 @@
 がん政策について直した方がいいところや追加した方がいいと思うことについて議論します。
 
 - イシューを立てる方はこちら
-    - [GitHub issues](https://github.com/)
+    - [GitHub issues](https://github.com/fujitamakoto-4/-/issues)
 - 新しいイシューの立て方は[こちら](/docs/manual_issue.md#new_issue)
 - イシューへのコメントの仕方は[こちら](/docs/manual_issue.md#comment_issue)
 
@@ -43,7 +43,7 @@
 がん政策に対して、具体的に変更提案します。
 
 - 変更提案はこちら
-    - [変更提案](https://github.com/)
+    - [変更提案]([https://github.com/](https://github.com/fujitamakoto-4/-/pulls))
 - 変更提案の仕方は[こちら](/docs/manual_pull_request.md)
 
 ### 変更提案の反映について
