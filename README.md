@@ -21,10 +21,10 @@
 
 ## 目次
 
-- [政策の出発点：私が政治を志す理由](manifesto/00_policy_philosophy.md)
-- [#1 がん対策：包括的支援体制の構築](manifesto/01_cancer_policy.md)
-- [#2 ブロードリスニング型 政策共創](manifesto/02_broad_listening.md)
-- [#3 地域創生：文化と産業の未来へ](manifesto/03_regional_revival.md)
+- [政策の出発点：私が政治を志す理由](manifest/00_policy_philosophy.md)
+- [#1 がん対策：包括的支援体制の構築](manifest/01_cancer_policy.md)
+- [#2 ブロードリスニング型 政策共創](manifest/02_broad_listening.md)
+- [#3 地域創生：文化と産業の未来へ](manifest/03_regional_revival.md)
 
 
 ## 意見をつたえる
