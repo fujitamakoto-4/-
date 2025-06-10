@@ -16,7 +16,7 @@
 **New Issue**をクリックして、
 ![NewIssue](./images/new_issue.png)
 テンプレート画面の**Get started**をさらにクリックします。
-![GetStarted](./images/get_started.png)
+![GetStarted](./docs/images/get_started.png)
 
 <h2 id="comment_issue">イシューへのコメント</h2>
 
