@@ -13,9 +13,7 @@
 
 ### Issue作成画面
 
-**New Issue**をクリックして、
-![NewIssue](./images/new_issue.png)
-テンプレート画面の**Get started**をさらにクリックします。
+**New Issue**をクリックして、Issue（議論したいこと）を作成します。
 ![GetStarted](./images/get_started.png)
 
 <h2 id="comment_issue">イシューへのコメント</h2>
