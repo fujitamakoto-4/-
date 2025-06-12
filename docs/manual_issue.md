@@ -25,7 +25,7 @@
 ![NewComment](./images/new_comment.png)
 
 ## ⑤コメント提出
-
+![CommentPreview](./images/comment_preview.png)
 コメントを作成したら**Submit new issue**をクリックします。  
 
 ## ⑥提出完了
