@@ -18,7 +18,7 @@
 ふじたまことの政策オープンソースです。マニフェストに対して、誰でも自由に変更提案をすることができます。
 
 ### ふじたまことについて
-- [ふじたまこと自己紹介]()
+- [ふじたまこと自己紹介](docs/profile.md)
 - [公式サイト](https://fujitamakoto.com/)
 - [公式YouTube](https://www.youtube.com/@fujitamakoto4.0)
 
