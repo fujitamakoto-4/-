@@ -31,7 +31,7 @@
 
 ### 議論中の政策
 議論中の政策はこちらから確認できます。
-- [#1 がん対策：包括的支援体制の構築]
+- #1 がん対策：包括的支援体制の構築
     - [「予防」に関する議論](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E4%BA%88%E9%98%B2)
     - [「治療中」に関する議論](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E6%B2%BB%E7%99%82%E4%B8%AD)
     - [「治療後」に関する議論](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E6%B2%BB%E7%99%82%E5%BE%8C)
