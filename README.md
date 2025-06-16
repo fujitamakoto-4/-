@@ -22,12 +22,23 @@
 - [公式サイト](https://fujitamakoto.com/)
 - [公式YouTube](https://www.youtube.com/@fujitamakoto4.0)
 
-### マニフェスト
-現在のマニフェストはこちらから確認できます。
+### 政策の柱
+ふじたまことが考える政策の柱のご紹介
 - [政策の出発点：私が政治を志す理由](manifest/00_policy_philosophy.md)
     - [#1 がん対策：包括的支援体制の構築](manifest/01_cancer_policy.md)
     - [#2 ブロードリスニング型 政策共創](manifest/02_broad_listening.md)
     - [#3 地域創生：文化と産業の未来へ](manifest/03_regional_revival.md)
+
+### マニフェスト
+※現在、作成中
+
+1. がん政策
+  1. 予防
+  2. 治療中
+  3. 治療後
+2. 地域創生
+3. 実現のための想定予算と財源確保の手当て
+4. その他政策や頂いたご質問に対するご回答
 
 ### 議論中の政策
 議論中の政策はこちらから確認できます。
