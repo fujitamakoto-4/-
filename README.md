@@ -33,9 +33,9 @@
 ※現在、作成中
 
 1. がん政策  
-    1. [予防](manifest/cancer_prevention.md)
-    2. [治療中](manifest/cancer_treatment.md)
-    3. [治療後](manifest/post-treatment.md) 
+    1. [がん予防](manifest/cancer_prevention.md)
+    2. [がん医療](manifest/cancer_treatment.md)
+    3. [がんとの共生](manifest/post-treatment.md) 
 2. 地域創生  
 3. 実現のための想定予算と財源確保の手当て  
 4. その他政策や頂いたご質問に対するご回答  
