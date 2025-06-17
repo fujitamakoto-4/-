@@ -4,7 +4,7 @@
 ## はじめに
 「がん政策共創プラットフォーム（政策リポジトリ）」の内容は以下のウェブサイトでもご覧いただけます：
 
-- [ふじたまこと：政策リポジトリ](https://fujitamakoto-4.github.io/-/)
+- [ふじたまこと：がん政策の閲覧サイト](https://fujitamakoto-4.github.io/-/)
 - [GitHubマニュアル](/docs/manual.md)
 
 ## サイト内リンク
