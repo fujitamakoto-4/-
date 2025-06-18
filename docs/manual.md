@@ -12,4 +12,4 @@
 - [①アカウント作成方法](https://youtu.be/ewq3GlqE51Q)
 - [②現状の政策の確認方法](https://youtu.be/ZPkuNVvGnGI)
 - ③議論したい政策の立ち上げ方法
-- ④議論に参加する方法
+- [④議論に参加する方法](https://youtu.be/Cao5NweDAEI)
