@@ -37,15 +37,14 @@
     2. [がん医療](manifest/cancer_treatment.md)
     3. [がんとの共生](manifest/post-treatment.md) 
 2. 地域創生  
-3. 実現のための想定予算と財源確保の手当て  
-4. その他政策や頂いたご質問に対するご回答  
+3. その他政策や頂いたご質問に対するご回答  
 
 ### 議論中の政策
 議論中の政策はこちらから確認できます。
 - #1 がん対策：包括的支援体制の構築
-    - [「予防」に関する議論](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E4%BA%88%E9%98%B2)
-    - [「治療中」に関する議論](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E6%B2%BB%E7%99%82%E4%B8%AD)
-    - [「治療後」に関する議論](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E6%B2%BB%E7%99%82%E5%BE%8C)
+    - [「がん予防」に関する議論](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E4%BA%88%E9%98%B2)
+    - [「がん医療」に関する議論](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E6%B2%BB%E7%99%82%E4%B8%AD)
+    - [「がんとの共生」に関する議論](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E6%B2%BB%E7%99%82%E5%BE%8C)
 - [#2 ブロードリスニング型 政策共創](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E3%80%90%E6%94%BF%E7%AD%96%E2%91%A1%E3%80%91%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%8B%E3%83%B3%E3%82%B0%E5%9E%8B%E6%94%BF%E7%AD%96%E5%85%B1%E5%89%B5)
 - [#3 地域創生：文化と産業の未来へ](https://github.com/fujitamakoto-4/-/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E3%80%90%E6%94%BF%E7%AD%96%E2%91%A2%E3%80%91%E5%9C%B0%E5%9F%9F%E5%89%B5%E7%94%9F)
    
