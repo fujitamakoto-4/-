@@ -11,5 +11,5 @@
 - 全てYouTubeで使い方動画を説明しております。以下よりそれぞれ使い方をご参照ください。
 - [①アカウント作成方法](https://youtu.be/ewq3GlqE51Q)
 - [②現状の政策の確認方法](https://youtu.be/ZPkuNVvGnGI)
-- ③議論したい政策の立ち上げ方法
+- [③議論したい政策の立ち上げ方法](https://youtu.be/6cRF0RoBpLc)
 - [④議論に参加する方法](https://youtu.be/Cao5NweDAEI)
