@@ -1,15 +1,16 @@
 # 課題提起（Issue・イシュー）マニュアル
 
 <h2 id="new_issue">新しいイシューの立て方</h2>
-### - [動画マニュアルはこちら](/docs/manual.md)
 
+### 動画マニュアルはこちら
+- [GitHubマニュアル](/docs/manual.md)
+- 
 ### ①サインイン
 
 [GitHub](https://github.com/)にサインインします。 アカウントを持っていない場合はアカウントを作成します。
 ![SignInAndUp](./images/sign_in_and_up.png)
 
 ### ②Issuesにアクセス
-
 [https://github.com/fujitamakoto-4/-/issues](https://github.com/fujitamakoto-4/-/issues) にアクセスします。  
 
 ### ③Issueの立ち上げ（作成画面）
